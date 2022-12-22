@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [EssUZ](https://t.me/essentuz_bot)
+- 👯 I’m looking to collaborate on [EssentUZ](https://t.me/essentuz_bot)
 
 - 🤝 I’m looking for help with **Django Projects**
 
