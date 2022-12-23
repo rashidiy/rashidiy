@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=rashideveloperr&theme=radical&margin-w=20" alt="rashideveloperr" /></a>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rashideveloperr&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rashideveloperr&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
 <p align="left">
 
 - 🔭 I’m currently working on [Fuse-BlogProject](https://github.com/rashideveloperr/fuse)
