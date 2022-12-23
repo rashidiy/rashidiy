@@ -1,4 +1,4 @@
-<img src="https://graphics-cafe.tumblr.com/" width="100%" style="border-radius: 5px;" />
+<img src="https://cdn.dribbble.com/users/1086476/screenshots/2996654/gif-final-d.gif" width="100%" style="border-radius: 5px;" />
 <h1 align="center">Hi 👋, I'm HabibulloH</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
