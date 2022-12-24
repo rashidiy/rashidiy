@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rashideveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="rashideveloperr" />
-<img src="https://wakatime.com/badge/user/957beb1b-6e41-4565-9b21-9593b47339a7/project/53c6dc4f-4a8f-4471-9241-7a951e95b14a.svg" alt="wakatime">
+[![wakatime](https://wakatime.com/badge/user/957beb1b-6e41-4565-9b21-9593b47339a7.svg)](https://wakatime.com/@957beb1b-6e41-4565-9b21-9593b47339a7)
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
