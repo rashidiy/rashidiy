@@ -13,7 +13,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rashideveloperr&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
 <p align="left">
 
-- 🔭 I’m currently working on [Fuse-BlogProject](https://github.com/rashideveloperr/fuse)
+- 🔭 I’m currently working on [BotCommerceApi](https://github.com/GaniyevUz/BotCommerce.git)
 
 - 🌱 I’m currently learning **Django**
 
