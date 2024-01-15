@@ -3,14 +3,14 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rashideveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="rashideveloperr" />
+<img src="https://komarev.com/ghpvc/?username=rashidiy&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiy" />
 <img src="https://wakatime.com/badge/user/957beb1b-6e41-4565-9b21-9593b47339a7.svg" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=rashideveloperr&theme=radical&margin-w=20" alt="rashideveloperr" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=rashidiy&theme=radical&margin-w=20" alt="rashidiy" /></a>
 </p>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rashideveloperr&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rashidiy&show_icons=true&locale=en&theme=radical"  alt="rashidiy"/>
 <p align="left">
 
 - 🔭 I’m currently working on [Digital-Ecommerce](https://github.com/GaniyevUz/BotCommerce.git)
@@ -52,8 +52,8 @@
 </p>
 
 <p>
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashideveloperr&show_icons=true&locale=en&layout=compact&theme=radical" alt="rashideveloperr" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidiy&show_icons=true&locale=en&layout=compact&theme=radical" alt="rashidiy" />
 </p>
 
 
-<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashideveloperr&theme=radical" alt="rashideveloperr" /></p>
+<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidiy&theme=radical" alt="rashidiy" /></p>
