@@ -1,8 +1,35 @@
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
-<h1 align="center">Hi 👋, I'm HabibulloH</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+# Habibulloh Rashidov
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rashidiy&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiy" />
-<img src="https://wakatime.com/badge/user/957beb1b-6e41-4565-9b21-9593b47339a7.svg" />
-</p>
+Software Engineer based in Dubai, UAE. 3+ years building production Python backend systems.
+
+## What I've built
+
+**[S1P.uz](https://s1p.uz)** — Multi-tenant SaaS CRM with telephony integration for call centers. Solo full-stack build.
+`FastAPI` `Next.js 15` `TypeScript` `PostgreSQL` `Redis` `Telegram Bot` `Sipuni/Binotel`
+
+**OqYo'l** — Travel/transport super-app backend. 6 microservices, 3 payment providers, 5,000+ daily transactions.
+`FastAPI` `Kafka` `PostgreSQL` `Docker` `Alembic`
+
+**Passgate** — Access control system with Hikvision device integration. Plugin-based architecture for biometric hardware.
+`Django` `Hikvision SDK` `WebSocket` `systemd`
+
+**CameraControlPanel** — IP camera management platform with remote device provisioning.
+`Django` `WebSocket` `IoT` `FTP`
+
+**5 Production CRMs** — Sales, support, operations systems serving 200+ daily active users at Samyy Soft.
+
+## Stack
+
+```
+Backend:      Python, FastAPI, Django, Celery, asyncio
+Frontend:     TypeScript, Next.js, React
+Databases:    PostgreSQL (advanced), Redis, Elasticsearch
+Infra:        Docker, Nginx, GitHub Actions, GitLab CI
+Architecture: Microservices, Event-driven (Kafka), REST/gRPC, WebSockets
+```
+
+## Links
+
+- [s1p.uz](https://s1p.uz) — Live product
+- [LinkedIn](https://linkedin.com/in/rashidiy)
+- [CV](mailto:rashi.diy@icloud.com) — Available on request
